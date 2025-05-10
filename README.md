@@ -29,3 +29,19 @@ Acesse o site localmente e veja o layout adaptado para desktop e dispositivos m�
 ---
 
 ## 📁 Estrutura de pastas
+
+📦 blog-viagens
+├── index.html
+├── style.css
+├── script.js
+├── search.js
+├── img/
+│ ├── f1.jpg
+│ ├── f2.jpg
+│ └── f3.jpg
+├── Site 1/
+│ └── index.html
+├── Site 2/
+│ └── index.html
+├── Site 3/
+│ └── index.html
